@@ -2,6 +2,7 @@ body{
     ;
     margin: 0px;
     text-align: center;
+    background-color:pink;
     
 }
 
@@ -21,7 +22,7 @@ body{
 .ww{
     
     font-family: 'merriweather',serif;
-    font-size: 2.5rem;
+    font-size: 300%;
     color:rgb(61, 37, 32);
     font-weight: normal;
     line-height: 0;
