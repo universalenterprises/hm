@@ -22,7 +22,7 @@ body{
 .ww{
     
     font-family: 'merriweather',serif;
-    font-size: 260%;
+    
     color:rgb(61, 37, 32);
     font-weight: normal;
     line-height: .2;
@@ -53,30 +53,15 @@ body{
 
 .b-cloud{
     position: absolute;
-    bottom: 40%;
+    bottom: 1%;
     left:20%;
     
 }
 .t-cloud{
     position: absolute;
-    top: 5%;
-    right:20%;
-}
-/*}
-.text{
-    position: relative;
-    top:30px
-}
-*/
-
-.moun{
-    position: relative;
-    width: 50%;
-    height:50%;
-    
+    top: 10%;
    
 }
-
 .univ{
     width: 17%;
     height: 17%;
