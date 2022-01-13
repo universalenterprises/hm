@@ -71,7 +71,7 @@ body{
 
 .moun{
     position: relative;
-    
+    width: 48%;
     
    
 }
@@ -98,8 +98,8 @@ body{
 
 }
 .lum1{
-    width: 40%px;
-    height: 10%;
+    width: 20%;
+    height: 7%;
     margin-left: 2%;
     margin-bottom: 5%;
 }
